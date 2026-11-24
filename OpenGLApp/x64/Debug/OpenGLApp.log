@@ -1,0 +1,8 @@
+﻿  Main.cpp
+C:\Users\pizzo\Desktop\OpenGLApp - full examples\OpenGLApp\OpenGLApp\collisionsBlock.h(67,24): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  (compilazione del file di origine 'Main.cpp')
+  
+C:\Users\pizzo\Desktop\OpenGLApp - full examples\OpenGLApp\OpenGLApp\collisionsBlock.h(67,24): warning C4267: 'inizializzazione': conversione da 'size_t' a 'const int'. Possibile perdita di dati.
+  (compilazione del file di origine 'Main.cpp')
+  
+  OpenGLApp.vcxproj -> C:\Users\pizzo\Desktop\OpenGLApp - full examples\OpenGLApp\x64\Debug\OpenGLApp.exe
